@@ -1,0 +1,77 @@
+# Lee Young ji – Small girl
+
+> **歌詞登録ステータス：同期歌詞あり**
+
+```lrc
+[00:03.22] If I got a two small cheeks and a bright pink lips
+[00:06.74] Baby, would you've wanted to kiss me?
+[00:09.46] Maybe a thin ass waist with brown long hair
+[00:12.37] Baby, would you've wanted to hold me?
+[00:30.87] 
+[00:14.79] No, you never, no, I'm never gonna get 'em all
+[00:17.99] Yeah, that's what makes me feel lonely
+[00:20.32] Oh, it's never, it can never ever happen to me
+[00:23.72] 'Cause I'm that girl, tall girle
+[00:39.72] 
+[00:26.08] Boy, I got a small girl fantasy
+[00:28.98] Baby, would you still love me?
+[00:31.50] Though I got a big laugh, big voice, and big personality
+[00:35.20] Would you guarantee it?
+[00:46.70] 
+[00:37.46] Know you got a small girl fantasy
+[00:40.04] Baby, would you still love me?
+[00:42.96] Though I got a big laugh, big voice, and big personality
+[00:46.42] Would you guarantee?
+[00:56.42] 
+[00:48.55] (If I got a, if I got a)
+[00:52.25] Would you guarantee?
+[00:54.38] (If I got a, if I got a)
+[00:57.87] Would you guarantee?
+[00:59.86] (If I got a, if, if I got a)
+[01:13.86] 
+[01:11.27] If I cared about all those things that you care
+[01:15.06] Then I'm not yours
+[01:16.82] Yes, you're wasting all your time on some stupid things
+[01:19.91] Baby, I'm alrеady yours
+[01:31.41] 
+[01:22.55] You keep asking me, "Do I really suit you? Do I really look good?"
+[01:25.74] Girl, I don't undеrstand you
+[01:28.18] All you have to do is smiling at me like there's no one to interrupt us
+[01:31.25] 'Cause that's all I need from you
+[01:47.75] 
+[01:33.69] Make that fingers V, 수줍어 하지 말고
+[01:36.82] 가까이 더 붙어, 난 여기있어
+[01:39.48] 니가 뭘 원하던지간에 난 항상 똑같아
+[01:42.03] 다른 조건은 애초에 없었어
+[01:49.03] 
+[01:46.58] Big eyes, big laugh
+[01:48.15] Big voice or big personality
+[01:50.73] Girl, I don't got no fantasy
+[01:53.67] Theres's no more other fantasy, yeah, yeah
+[02:14.67] 
+[01:56.57] If I got a two small cheeks and a bright pink lips
+[01:59.55] Baby, would you've wanted to kiss me?
+[02:02.36] Maybe a thin ass waist with a brown long hair
+[02:05.16] Baby, would you've wanted to hold me?
+[02:23.66] 
+[02:07.55] No, you never, no, I'm never gonna get them all
+[02:10.96] Yeah, that's what makes me feel lonely
+[02:13.32] Oh, it's never, it can never ever happen to me
+[02:16.89] 'Cause I'm that girl, tall girle
+[02:32.89] 
+[02:19.03] Boy, I got a small girl fantasy
+[02:21.65] Baby, would you still love me?
+[02:24.65] Though I got a big laugh, big voice, and big personality
+[02:28.18] Would you guarantee?
+[02:38.18] 
+[02:30.24] Know you got a small girl fantasy
+[02:33.12] Baby, would you still love me?
+[02:35.84] Though I got a big laugh, big voice, and big personality
+[02:39.50] Would you guarantee?
+[02:49.50] 
+[02:41.28] (If, if I got a, if I got a)
+[02:45.27] Would you guarantee?
+[02:46.82] (If, if I got a, if I got a)
+[02:50.73] Would you guarantee?
+[02:52.82] (If I got a, if, if I got a)
+```
