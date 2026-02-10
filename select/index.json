@@ -1,0 +1,176 @@
+{
+  "version": 1,
+  "base_track": "Small girl",
+  "base_artist": "Lee Young ji",
+  "createdAt": "2026-02-10T21:28:20.606037Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Small girl (feat. D.O.)",
+      "artist": "Lee Young Ji",
+      "has_synced": true,
+      "path": "select/01_Small_girl_(feat._D.O.)_Lee_Young_Ji.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Small girl (feat. 도경수 (D.O.))",
+      "artist": "이영지, 도경수",
+      "has_synced": true,
+      "path": "select/02_Small_girl_(feat._도경수_(D.O.))_이영지,_도경수.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Small girl (feat. D.O.) (Small girl )) (feat. D.O. & 도경수)",
+      "artist": "Lee Young ji",
+      "has_synced": true,
+      "path": "select/03_Small_girl_(feat._D.O.)_(Small_girl_))_(feat._D.O._&_도경수)_Lee_Young_ji.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Small girl (feat. D.O.) (Small girl ))",
+      "artist": "Lee Young ji",
+      "has_synced": true,
+      "path": "select/04_Small_girl_(feat._D.O.)_(Small_girl_))_Lee_Young_ji.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Small girl (Small girl) (feat. D.O.)",
+      "artist": "Lee Young ji",
+      "has_synced": true,
+      "path": "select/05_Small_girl_(Small_girl)_(feat._D.O.)_Lee_Young_ji.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Small girl (feat. D.O.)",
+      "artist": "Lee Young Ji & D.O.",
+      "has_synced": true,
+      "path": "select/06_Small_girl_(feat._D.O.)_Lee_Young_Ji_&_D.O..lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Small girl (Small girl)",
+      "artist": "Lee Young ji",
+      "has_synced": true,
+      "path": "select/07_Small_girl_(Small_girl)_Lee_Young_ji.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "Small girl",
+      "artist": "Lee Young Ji",
+      "has_synced": true,
+      "path": "select/08_Small_girl_Lee_Young_Ji.lrc"
+    },
+    {
+      "id": "lrclib_9",
+      "source": "lrclib",
+      "title": "Lee Young ji 'Small girl (feat. D.O.)' Easy Lyrics",
+      "artist": "3vrblu",
+      "has_synced": true,
+      "path": "select/09_Lee_Young_ji_'Small_girl_(feat._D.O.)'_Easy_Lyrics_3vrblu.lrc"
+    },
+    {
+      "id": "lrclib_10",
+      "source": "lrclib",
+      "title": "small girl",
+      "artist": "lee young ji do",
+      "has_synced": true,
+      "path": "select/10_small_girl_lee_young_ji_do.lrc"
+    },
+    {
+      "id": "lrclib_11",
+      "source": "lrclib",
+      "title": "Small girl (cùng với D.O.)",
+      "artist": "Lee Young ji",
+      "has_synced": true,
+      "path": "select/11_Small_girl_(cùng_với_D.O.)_Lee_Young_ji.lrc"
+    },
+    {
+      "id": "lrclib_12",
+      "source": "lrclib",
+      "title": "Small girl (menampilkan D.O.)",
+      "artist": "Lee Young ji",
+      "has_synced": true,
+      "path": "select/12_Small_girl_(menampilkan_D.O.)_Lee_Young_ji.lrc"
+    },
+    {
+      "id": "lrclib_13",
+      "source": "lrclib",
+      "title": "Small girl (合作演出：D.O.)",
+      "artist": "Lee Young ji",
+      "has_synced": true,
+      "path": "select/13_Small_girl_(合作演出_D.O.)_Lee_Young_ji.lrc"
+    },
+    {
+      "id": "lrclib_14",
+      "source": "lrclib",
+      "title": "Small girl (feat. D.O",
+      "artist": "Lee Young Ji",
+      "has_synced": false,
+      "path": "select/14_Small_girl_(feat._D.O_Lee_Young_Ji.txt"
+    },
+    {
+      "id": "lrclib_15",
+      "source": "lrclib",
+      "title": "Small Girl",
+      "artist": "Lee Young Ji",
+      "has_synced": true,
+      "path": "select/15_Small_Girl_Lee_Young_Ji.lrc"
+    },
+    {
+      "id": "lrclib_16",
+      "source": "lrclib",
+      "title": "One Small Girl",
+      "artist": "Philip Boykin",
+      "has_synced": false,
+      "path": "select/16_One_Small_Girl_Philip_Boykin.txt"
+    },
+    {
+      "id": "lrclib_17",
+      "source": "lrclib",
+      "title": "Small girl",
+      "artist": "Lee Young Ji, D.O.",
+      "has_synced": true,
+      "path": "select/17_Small_girl_Lee_Young_Ji,_D.O..lrc"
+    },
+    {
+      "id": "lrclib_18",
+      "source": "lrclib",
+      "title": "Small girl",
+      "artist": "Youngji (이영지)",
+      "has_synced": true,
+      "path": "select/18_Small_girl_Youngji_(이영지).lrc"
+    },
+    {
+      "id": "lrclib_19",
+      "source": "lrclib",
+      "title": "Small girl (cùng với D.O.)",
+      "artist": "Lee Young ji",
+      "has_synced": true,
+      "path": "select/19_Small_girl_(cùng_với_D.O.)_Lee_Young_ji.lrc"
+    },
+    {
+      "id": "lrclib_20",
+      "source": "lrclib",
+      "title": "Small girl (Cover)",
+      "artist": "YOON SANHA/Billlie",
+      "has_synced": true,
+      "path": "select/20_Small_girl_(Cover)_YOON_SANHA_Billlie.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Small girl",
+      "artist": "Lee Young Ji",
+      "has_synced": false,
+      "path": "select/pl_01_Small_girl_Lee_Young_Ji.txt"
+    }
+  ]
+}
